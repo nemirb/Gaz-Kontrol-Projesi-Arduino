@@ -1,2 +1,1 @@
-# Arduino-Projesi
-Gaz Kontrol Projesi
+Gaz Kontrol Projesi(Arduino)
